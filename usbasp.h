@@ -28,6 +28,9 @@
 #define	USBASP_SHARED_VID   0x16C0  /* VOTI */
 #define	USBASP_SHARED_PID   0x05DC  /* Obdev's free shared PID */
 
+#define USBASP_ZHIFENG_VID 0x03eb
+#define USBASP_ZHIFENG_PID 0xc8b4
+
 #define	USBASP_OLD_VID      0x03EB  /* ATMEL */
 #define	USBASP_OLD_PID	    0xC7B4  /* (unoffical) USBasp */
 
